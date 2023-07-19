@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.search-container {
+    text-align: center;
+    margin-top: 10px;
+}
